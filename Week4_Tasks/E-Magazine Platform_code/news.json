@@ -1,0 +1,89 @@
+{
+    "articles": [
+        {
+            "title": "India vs Pakistan LIVE, Champions Trophy",
+            "description": "In a highly anticipated Champions Trophy encounter, arch-rivals India and Pakistan are battling it out in Dubai. Pakistan, opting to bat first after winning the toss, posted a total of 241 runs, with notable contributions from Saud Shakeel (62) and Mohammad Rizwan (46). The Indian bowling attack, led by Harshit and Shami, effectively contained Pakistan's scoring rate. In response, India commenced their chase with Rohit Sharma scoring 20 runs before falling to Shaheen Shah Afridi. Shubman Gill added a solid 46, and currently, Virat Kohli remains unbeaten on 55, steering India's innings alongside Shreyas Iyer. The match is poised delicately, with India at 140-2 in 28 overs, as Pakistan's bowlers strive to break this crucial partnership",
+            "image": "images/imgt1.jpg",
+            "url": "https://www.hindustantimes.com/cricket/india-vs-pakistan-live-champions-trophy-2025",
+            "category": "Sports"
+        },
+        {
+            "title": "UEFA Champions League: Latest Results",
+            "description": "The UEFA Champions League 2024/25 season has reached an intense phase, with several unexpected outcomes in the recent playoff matches. Notably, teams featuring prominent U.S. Men's National Team players faced eliminations. AC Milan, with Christian Pulisic and Yunus Musah, were ousted by Feyenoord despite Pulisic providing an assist in the second leg. Similarly, Celtic FC's American duo, Austin Trusty and Cameron Carter-Vickers, saw their campaign end against Bayern Munich, who secured victory with a late goal from Alphonso Davies. Juventus, featuring Weston McKennie and Tim Weah, also exited the tournament after a closely contested tie with PSV Eindhoven.",
+            "image": "images/imgt2.jpg",
+            "url": "https://www.uefa.com/uefachampionsleague/news",
+            "category": "Sports"
+        },
+        {
+            "title": "Olympic Games 2024: Key Highlights",
+            "description": "Recap the biggest moments and medal winners from the 2024 Olympic Games.The Olympic Games are a global sporting event that includes summer and winter competitions. The Olympic Games are the largest multi-sport event in the world, with thousands of athletes competing in many sports. The Olympic Games are a global sporting event that includes summer and winter competitions. The Olympic Games are the largest multi-sport event in the world, with thousands of athletes competing in many sports. ",
+            "image": "images/imgt3.jpg",
+            "url": "https://olympics.com/en/news",
+            "category": "Sports"
+        },
+        {
+            "title": "AI Breakthroughs in 2025",
+            "description": "New advancements in artificial intelligence are set to transform industries.",
+            "image": "images/imgt4.jpg",
+            "url": "https://www.wired.com/story/ai-2025-breakthroughs",
+            "category": "Technology"
+        },
+        {
+            "title": "Quantum Computing: What’s Next?",
+            "description": "A glimpse into the future of quantum computing and its potential impact.",
+            "image": "images/imgt5.jpg",
+            "url": "https://www.technologyreview.com/quantum-computing-2025",
+            "category": "Technology"
+        },
+        {
+            "title": "5G Networks: Revolutionizing Connectivity",
+            "description": "How 5G networks are reshaping the way we connect and communicate.",
+            "image": "images/imgt6.jpg",
+            "url": "https://www.bbc.com/tech/5g-revolution",
+            "category": "Technology"
+        },
+        
+        {
+            "title": "Top University Rankings for 2025",
+            "description": "Explore the world's top universities and their academic achievements.",
+            "image": "images/imgt10.jpg",
+            "url": "https://www.timeshighereducation.com/university-rankings-2025",
+            "category": "Education"
+        },
+        {
+            "title": "Online Learning: The Future of Education",
+            "description": "How online platforms are transforming the education system.",
+            "image": "images/imgt11.jpg",
+            "url": "https://www.edtechmagazine.com/online-learning-2025",
+            "category": "Education"
+        },
+        {
+            "title": "Innovative Teaching Methods in Schools",
+            "description": "New teaching methods that enhance student engagement.",
+            "image": "images/imgt12.jpg",
+            "url": "https://www.educationworld.com/teaching-methods-2025",
+            "category": "Education"
+        },
+        {
+            "title": "Stock Market Trends for 2025",
+            "description": "Expert predictions on the stock market and upcoming trends.",
+            "image": "images/imgt7.jpg",
+            "url": "https://www.forbes.com/stock-market-2025",
+            "category": "Business"
+        },
+        {
+            "title": "Startups to Watch in 2025",
+            "description": "A list of emerging startups that are set to disrupt industries.",
+            "image": "images/imgt8.jpg",
+            "url": "https://www.inc.com/startups-2025",
+            "category": "Business"
+        },
+        {
+            "title": "The Rise of Sustainable Business",
+            "description": "How companies are adopting sustainable practices for a better future.",
+            "image": "images/imgt9.jpg",
+            "url": "https://www.businessinsider.com/sustainable-business-2025",
+            "category": "Business"
+        }
+    ]
+}
