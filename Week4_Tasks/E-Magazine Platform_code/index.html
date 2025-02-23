@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Magazine</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>E-Magazine</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#featured-news">Latest News</a></li>
+                    <li><a href="#category">Categories</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    
+    <section class="featured-news" id = "featured-news">
+        <h2>FEATURED NEWS</h2>
+        <div class="news-slider" id="news-slider"></div>
+    </section>
+
+    <section class="categories" id="category">
+        <h2>CATEGORIES</h2>
+        <div class="tabs">
+            <button class="tab" onclick="filterNews('Technology')">Technology</button>
+            <button class="tab" onclick="filterNews('Sports')">Sports</button>
+            <button class="tab" onclick="filterNews('Education')">Education</button>
+            <button class="tab" onclick="filterNews('Business')">Business</button>
+        </div>
+        <div id="news-container"></div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
